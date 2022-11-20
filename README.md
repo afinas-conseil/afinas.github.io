@@ -1,2 +1,2 @@
 # afinas.githib.io
-https://afinas-conseil.github.io/afinas.github.io/
+https://afinas.github.io/
